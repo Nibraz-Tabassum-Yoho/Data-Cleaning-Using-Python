@@ -13,6 +13,8 @@ Employee_ID,Name,Age,Gender,Department,Salary,Joining_Date,City,Performance_Rati
 111,Lucas Martin,150,Male,Finance,58000,2021-12-10,Chennai,3
 112,Mia Garcia,26,Female,HR,51000,2022-07-19,Mumbai,4
 113,Noah Martinez,38,Male,Sales,500000,2018-03-11,Delhi,5
+101,john smith,25,Male,IT,45000,2022-01-15,Mumbai,4
+102,ALICE JOHNSON,30,Female,HR,55000,15/03/2021,Delhi,5
 114,Ava Robinson,29,Female,IT,68000,2021-06-25,Bangalore,4
 115,Ethan Clark,,Male,Finance,57000,2023-01-05,Chennai,3
 116,Charlotte Lewis,32,Female,HR,53000,2022-10-14,Mumbai,5

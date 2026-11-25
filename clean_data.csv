@@ -1,0 +1,21 @@
+Employee_ID,Name,Age,Gender,Department,Salary,Joining_Date,City,Performance_Rating,Joining_Date_Missing
+101,John Smith,25.0,Male,IT,45000.0,2022-01-15,Mumbai,4.0,False
+102,Alice Johnson,30.0,Female,HR,55000.0,2021-03-15,Delhi,5.0,False
+103,David Brown,28.0,Male,FINANCE,50000.0,2023-10-06,Bangalore,3.0,False
+104,Emma Wilson,35.0,Female,IT,65000.0,2020-11-20,Mumbai,4.0,False
+105,Michael Davis,42.0,Male,SALES,75000.0,2019-12-05,Delhi,5.0,False
+106,Sophia Miller,30.0,Female,HR,52000.0,2022-01-08,Chennai,4.0,False
+107,James Wilson,29.0,Male,IT,57000.0,2021-09-15,Mumbai,3.0,False
+108,Olivia Taylor,31.0,Female,FINANCE,62000.0,,Delhi,5.0,True
+109,William Anderson,27.0,Male,SALES,48000.0,2023-02-18,Mumbai,4.0,False
+110,Isabella Thomas,33.0,Female,IT,70000.0,2020-04-22,Bangalore,4.0,False
+111,Lucas Martin,30.0,Male,FINANCE,58000.0,2021-10-12,Chennai,3.0,False
+112,Mia Garcia,26.0,Female,HR,51000.0,2022-07-19,Mumbai,4.0,False
+113,Noah Martinez,38.0,Male,SALES,57500.0,2018-11-03,Delhi,5.0,False
+114,Ava Robinson,29.0,Female,IT,68000.0,2021-06-25,Bangalore,4.0,False
+115,Ethan Clark,30.0,Male,FINANCE,57000.0,2023-05-01,Chennai,3.0,False
+116,Charlotte Lewis,32.0,Female,HR,53000.0,2022-10-14,Mumbai,5.0,False
+117,Benjamin Lee,41.0,Male,SALES,72000.0,2019-08-30,Delhi,4.0,False
+118,Amelia Walker,28.0,Female,IT,64000.0,2021-02-17,Bangalore,3.0,False
+119,Henry Hall,34.0,Male,FINANCE,61000.0,2020-09-09,Chennai,4.0,False
+120,John Smith,25.0,Male,IT,45000.0,2022-01-15,Mumbai,4.0,False
