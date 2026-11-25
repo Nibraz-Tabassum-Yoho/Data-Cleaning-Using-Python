@@ -1,0 +1,24 @@
+Employee_ID,Name,Age,Gender,Department,Salary,Joining_Date,City,Performance_Rating
+
+101,john smith,25,Male,IT,45000,2022-01-15,Mumbai,4
+102,ALICE JOHNSON,30,Female,HR,55000,15/03/2021,Delhi,5
+103, David Brown ,28,male,Finance,50000,2023-06-10,Bangalore,3
+104,Emma Wilson,35,Female, it ,65000,2020-11-20,Mumbai,4
+105,Michael Davis,42,Male,Sales,75000,2019-05-12,Delhi,5
+106,Sophia Miller,,Female,HR,52000,2022-08-01,Chennai,4
+107,James Wilson,29,Male,IT,,2021-09-15,Mumbai,3
+108,Olivia Taylor,31,Female,Finance,62000,,Delhi,5
+109,William Anderson,27,Male,Sales,48000,2023-02-18,,4
+110,Isabella Thomas,33,Female,IT,70000,2020-04-22,Bangalore,
+111,Lucas Martin,150,Male,Finance,58000,2021-12-10,Chennai,3
+112,Mia Garcia,26,Female,HR,51000,2022-07-19,Mumbai,4
+113,Noah Martinez,38,Male,Sales,500000,2018-03-11,Delhi,5
+101,john smith,25,Male,IT,45000,2022-01-15,Mumbai,4
+102,ALICE JOHNSON,30,Female,HR,55000,15/03/2021,Delhi,5
+114,Ava Robinson,29,Female,IT,68000,2021-06-25,Bangalore,4
+115,Ethan Clark,,Male,Finance,57000,2023-01-05,Chennai,3
+116,Charlotte Lewis,32,Female,HR,53000,2022-10-14,Mumbai,5
+117,Benjamin Lee,41,Male,Sales,72000,2019-08-30,Delhi,4
+118,Amelia Walker,28,Female,IT,64000,2021-02-17,Bangalore,3
+119,Henry Hall,34,Male,Finance,61000,2020-09-09,Chennai,4
+120,john smith,25,Male,IT,45000,2022-01-15,Mumbai,4
