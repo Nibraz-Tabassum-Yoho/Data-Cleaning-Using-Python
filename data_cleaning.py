@@ -18,8 +18,7 @@ df['Age'] = df['Age'].fillna(df['Age'].median())
 df['Salary'] = df['Salary'].fillna(df['Salary'].median())
 df['City'] = df['City'].fillna(df['City'].mode()[0])
 df['Performance_Rating'] = df['Performance_Rating'].fillna(df['Performance_Rating'].mode()[0])
-df['Joining_Date_Missing'] = df['Joining_Date'].isnull()
-
+df['Joining_Date'] = df['Joining_Date'].fillna('2021-09-15')
 df['Age'] = pd.to_numeric(df['Age'], errors='coerce')
 df['Salary'] = pd.to_numeric(df['Salary'], errors='coerce')
 df['Performance_Rating'] = pd.to_numeric(df['Performance_Rating'], errors='coerce')
@@ -66,7 +65,7 @@ def detect_outliers(data, column):
 age_outliers = detect_outliers(df, 'Age')
 salary_outliers = detect_outliers(df, 'Salary')
 
-# Replace Age outliers with median
+
 age_median = df['Age'].median()
 
 df.loc[
